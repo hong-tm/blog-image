@@ -1,2 +1,2 @@
 # blog-image
-Personal image hosting feature
+Personal image hosting store using PicGo
